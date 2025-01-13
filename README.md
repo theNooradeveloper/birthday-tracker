@@ -1,2 +1,3 @@
 # birthday-tracker
-Created with CodeSandbox
+Tracks past, present and future birthdays using Date Of Birth
+Calculates Age and display the age, name and avatar
